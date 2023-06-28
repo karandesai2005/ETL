@@ -1,35 +1,87 @@
 import json
 
-# Load the field mapping from field_mapping.json
-with open('field_mapping.json') as file:
-    field_mapping = json.load(file)
+# Read the JSON file
+with open('mapfile1.json') as f:
+    data = json.load(f)
 
-with open('mapfile1.json') as file:
-    map_data = json.load(file)
+# Define the field mappings
+field_mappings = {
+    "TERABITZ_ID": "ListingId",
+    "ID": "ListingId",
+    "DATASOURCE": "MlsStatus",
+    "UNIT_NUMBER": "UnitNumber",
+    "ADDRESS": "UnparsedAddress",
+    "CITY": "City",
+    "STATE": "StateOrProvince",
+    "ZIP": "PostalCode",
+    "COUNTY": "CountyOrParish",
+    "latitude": "Latitude",
+    "longitude": "Longitude",
+    "TYPE": "PropertyType",
+    "SUBTYPE": "PropertySubType",
+    "TITLE": None,
+    "DESCRIPTION": "LongDescription",
+    "PARCEL_NUMBER": "ParcelNumber",
+    "BEDS": "BedroomsTotal",
+    "BATHS": None,
+    "FULLBATHS": None,
+    "HALFBATHS": None,
+    "AREASQFT": None,
+    "LOTSQFT": None,
+    "YEAR_BUILT": None,
+    "DISPLAY_ADDRESS": None,
+    "DISPLAY_LISTING": None,
+    "MLS_NUMBER": "ListingKey",
+    "STATUS": "MlsStatus",
+    "SALEDATE": None,
+    "SALEPRICE": None,
+    "LISTDATE": None,
+    "ORIG_LISTPRICE": "OriginalListPrice",
+    "CURR_LISTPRICE": "ListPrice",
+    "DAYS_ON_MARKET": None,
+    "DATE_PRICE_ADJUST": None,
+    "LISTING_URL": None,
+    "VTOUR_URL": None,
+    "MODIF_TIMESTAMP": "ModificationTimestamp",
+    "EXPIRY_DATE": None,
+    "MISC": None,
+    "PHOTO_COUNT": None,
+    "VIDEO_COUNT": None,
+    "PHOTO_MODIF_DATE": None,
+    "VIDEO_MODIF_DATE": None,
+    "DIST_SCHOOL": None,
+    "ELEM_SCHOOL": None,
+    "MIDL_SCHOOL": None,
+    "HIGH_SCHOOL": None,
+    "NABRHD_NAME": None,
+    "NABRHD_DESC": None,
+    "NEARBY_URL": None,
+    "IDENTIFIER": None,
+    "GEOLEVEL": None,
+    "MAIN_PHOTO": None,
+    "PRICE_CHANGE": None,
+    "STATUS_CHANGE": None,
+    "BROKER_CODE": None,
+    "BROKER_NAME": None,
+    "OFFICE_LISTING_YN": None
+}
 
-print("Original map_data:")
-print(json.dumps(map_data, indent=4))
+# Map the values to the fields
+mapped_data = {}
 
-master_json = {}
-
-def process_data(data):
-    if isinstance(data, list):
-        return data
-    elif isinstance(data, dict):
-        return {k: process_data(v) for k, v in data.items()}
+for field, mapping in field_mappings.items():
+    if mapping is None:
+        mapped_data[field] = None
     else:
-        return [data]
+        mapped_data[field] = [entry.get(mapping) for entry in data['value']]
 
-for key, value in field_mapping.items():
-    if '.' in value:
-        nested_keys = value.split('.')
-        temp_data = map_data
-        for nested_key in nested_keys:
-            if nested_key in temp_data:
-                temp_data = temp_data[nested_key]
-            else:
-                temp_data = None
-                break
-        master_json[key] = process_data(temp_data)
-    elif isinstance(map_data, list) and value in map_data[0]:
-        master
+# Print the mapped data
+for key, value in mapped_data.items():
+    print(f"{key}: {value}")
+
+# Save the mapped data to a file
+output_file = 'master.json'
+with open(output_file, 'w') as f:
+    json.dump(mapped_data, f, indent=4)
+
+print(f"Data has been saved to {output_file}.")

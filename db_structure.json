@@ -1,0 +1,256 @@
+{
+  "fields": [
+    {
+      "name": "terabitz_id",
+      "type": "bigint"
+    },
+    {
+      "name": "id",
+      "type": "varchar"
+    },
+    {
+      "name": "datasource",
+      "type": "varchar"
+    },
+    {
+      "name": "unit_number",
+      "type": "varchar"
+    },
+    {
+      "name": "address",
+      "type": "varchar"
+    },
+    {
+      "name": "city",
+      "type": "varchar"
+    },
+    {
+      "name": "state",
+      "type": "varchar"
+    },
+    {
+      "name": "zip",
+      "type": "varchar"
+    },
+    {
+      "name": "county",
+      "type": "varchar"
+    },
+    {
+      "name": "latitude",
+      "type": "double"
+    },
+    {
+      "name": "longitude",
+      "type": "double"
+    },
+    {
+      "name": "type",
+      "type": "varchar"
+    },
+    {
+      "name": "subtype",
+      "type": "varchar"
+    },
+    {
+      "name": "title",
+      "type": "varchar"
+    },
+    {
+      "name": "description",
+      "type": "text"
+    },
+    {
+      "name": "parcel_number",
+      "type": "varchar"
+    },
+    {
+      "name": "beds",
+      "type": "float"
+    },
+    {
+      "name": "baths",
+      "type": "float"
+    },
+    {
+      "name": "fullbaths",
+      "type": "float"
+    },
+    {
+      "name": "halfbaths",
+      "type": "float"
+    },
+    {
+      "name": "areasqft",
+      "type": "varchar"
+    },
+    {
+      "name": "lotsqft",
+      "type": "varchar"
+    },
+    {
+      "name": "year_built",
+      "type": "varchar"
+    },
+    {
+      "name": "display_address",
+      "type": "tinyint"
+    },
+    {
+      "name": "display_listing",
+      "type": "tinyint"
+    },
+    {
+      "name": "mls_number",
+      "type": "varchar"
+    },
+    {
+      "name": "status",
+      "type": "varchar"
+    },
+    {
+      "name": "saledate",
+      "type": "date"
+    },
+    {
+      "name": "saleprice",
+      "type": "double"
+    },
+    {
+      "name": "listdate",
+      "type": "date"
+    },
+    {
+      "name": "orig_listprice",
+      "type": "double"
+    },
+    {
+      "name": "curr_listprice",
+      "type": "double"
+    },
+    {
+      "name": "days_on_market",
+      "type": "int"
+    },
+    {
+      "name": "date_price_adjust",
+      "type": "date"
+    },
+    {
+      "name": "listing_url",
+      "type": "text"
+    },
+    {
+      "name": "vtour_url",
+      "type": "text"
+    },
+    {
+      "name": "modify_timestamp",
+      "type": "datetime"
+    },
+    {
+      "name": "expiry_date",
+      "type": "date"
+    },
+    {
+      "name": "misc",
+      "type": "text"
+    },
+    {
+      "name": "photo_count",
+      "type": "int"
+    },
+    {
+      "name": "video_count",
+      "type": "int"
+    },
+    {
+      "name": "photo_modify_date",
+      "type": "datetime"
+    },
+    {
+      "name": "video_modify_date",
+      "type": "datetime"
+    },
+    {
+      "name": "dist_school",
+      "type": "varchar"
+    },
+    {
+      "name": "elem_school",
+      "type": "varchar"
+    },
+    {
+      "name": "midl_school",
+      "type": "varchar"
+    },
+    {
+      "name": "high_school",
+      "type": "varchar"
+    },
+    {
+      "name": "nabrhd_name",
+      "type": "varchar"
+    },
+    {
+      "name": "nabrhd_desc",
+      "type": "text"
+    },
+    {
+      "name": "nearby_url",
+      "type": "text"
+    },
+    {
+      "name": "identifier",
+      "type": "varchar"
+    },
+    {
+      "name": "geolevel",
+      "type": "int"
+    },
+    {
+      "name": "main_photo",
+      "type": "text"
+    },
+    {
+      "name": "price_change",
+      "type": "double"
+    },
+    {
+      "name": "status_change",
+      "type": "varchar"
+    },
+    {
+      "name": "broker_code",
+      "type": "varchar"
+    },
+    {
+      "name": "broker_name",
+      "type": "varchar"
+    },
+    {
+      "name": "office_listing_yn",
+      "type": "tinyint"
+    },
+    {
+      "name": "extra1",
+      "type": "varchar"
+    },
+    {
+      "name": "extra2",
+      "type": "varchar"
+    },
+    {
+      "name": "extra3",
+      "type": "varchar"
+    },
+    {
+      "name": "extra4",
+      "type": "varchar"
+    },
+    {
+      "name": "extra5",
+      "type": "varchar"
+    }
+  ]
+}

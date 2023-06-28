@@ -1,36 +1,30 @@
 import json
 
-# Load the field mapping from field_mapping.json
-with open('field_mapping.json') as file:
-    field_mapping = json.load(file)
+# Reading JSON file for field mappings
+with open('field_mapping.json') as f:
+    field_mappings_data = json.load(f)
 
-with open('mapfile1.json') as file:
-    map_data = json.load(file)
+# Read the JSON file
+with open('mapfile1.json') as f:
+    data = json.load(f)
 
-print("Original map_data:")
-print(json.dumps(map_data, indent=4))
+# Restructure the data
+restructured_data = []
 
-master_json = {}
+for entry in data['value']:
+    item = {}
+    for field, mapping in field_mappings_data.items():
+        if mapping is not None:
+            item[field] = entry.get(mapping)
+    restructured_data.append(item)
 
-for key, value in field_mapping.items():
-    if '.' in value:
-        nested_keys = value.split('.')
-        temp_data = map_data['value']
-        for nested_key in nested_keys:
-            if nested_key in temp_data:
-                temp_data = temp_data[nested_key]
-            else:
-                temp_data = None
-                break
-        master_json[key] = temp_data
-    elif value in map_data['value'][0]:
-        master_json[key] = map_data['value'][0][value]
-    else:
-        master_json[key] = None
+# Print the restructured data
+for item in restructured_data:
+    print(json.dumps(item, indent=4))
 
-print("Master JSON:")
-print(json.dumps(master_json, indent=4))
+# Save the restructured data to a file
+output_file = 'master.json'
+with open(output_file, 'w') as f:
+    json.dump(restructured_data, f, indent=4)
 
-# Save the master JSON to a file
-with open('master.json', 'w') as file:
-    json.dump(master_json, file, indent=4)
+print(f"Data has been saved to {output_file}.")
