@@ -1,0 +1,42 @@
+{
+    "PROPERTY": {
+        "ADDRESS": "1400 Lions Ridge Loop, 2, Vail, CO 81657",
+        "CITY": "Vail",
+        "STATE": "CO",
+        "ZIP": "81657",
+        "COUNTY": "Eagle",
+        "LOCATION": {
+            "latitude": 39.637927,
+            "longitude": -106.408133
+        }
+    },
+    "MEDIA": {
+        "LISTING_URL": null,
+        "VTOUR_URL": null,
+        "MODIF_TIMESTAMP": "2023-02-20T14:28:22Z"
+    },
+    "TERABITZ_ID": "1005941",
+    "ID": "1005941",
+    "DATASOURCE": "Vail Multi-List Service",
+    "UNIT_NUMBER": "2",
+    "TYPE": "Residential",
+    "SUBTYPE": "Condominium",
+    "TITLE": null,
+    "DESCRIPTION": "Designed by the internationally renowned architect, the late Charles Allen Haertling.\r\n\r\nAn architectural wonderment and one of THE BEST VIEWS in the Vail Valley! A mesmerizing panoramic view over the Town of Vail with the iconic and perfectly framed ''Grand Traverse'' in the peaks of the Gore Range. Postcard sunrises and glorious sunsets, blizzards, lighting storms and rainbows, daily! Unit 2 is the ''Pick of the Litter'' and same owner occupied for 38 years.\r\n\r\nSituated in West Vail on the sunny side of the valley, 3 minutes from town and 2 minutes from the grocery stores. A popular street for a variety of exercises and easy access to several hiking trails. A TOV bus stops at the properties edge.\r\n\r\nAn eclectic mix of finishes and furnishings, highly functional, A + clean, and cozy beyond.\r\nThe common courtyard embellishes a world class garden for all day enjoyment.\r\nThe association's exterior is due for an upgrade, Early assessment estimates are roughly $40K + or \u00e2\u20ac\u201c in two to three years. The development process is in progress. There are 2 reserved parking and 3 guest spots. Long-term rentals only.\r\n\r\nOverall, the Architecture, Location, Situation, and Views, are something that ''Cannot be Duplicated'' in the Vail Valley. Designed by the internationally renowned architect, the late Charles Allen Haertling.\n\nAn architectural wonderment and one of THE BEST VIEWS in the Vail Valley! A mesmerizing panoramic view over the Town of Vail with the iconic and perfectly framed \"Grand Traverse\" in the peaks of the Gore Range. Postcard sunrises and glorious sunsets, blizzards, lighting storms and rainbows, daily! Unit 2 is the \"Pick of the Litter\" and same owner occupied for 38 years.\n\nSituated in West Vail on the sunny side of the valley, 3 minutes from town and 2 minutes from the grocery stores. A popular street for a variety of exercises and easy access to several hiking trails. A TOV bus stops at the properties edge.\n\nAn eclectic mix of finishes and furnishings, highly functional, A + clean, and cozy beyond.\nThe common courtyard embellishes a world class garden for all day enjoyment.\n\nOverall, the Architecture, Location, Situation, and Views, are something that \"Cannot be Duplicated\" in the Vail Valley.",
+    "PARCEL_NUMBER": "210312203002",
+    "BEDS": 4,
+    "HALFBATHS": 0,
+    "LOTSQFT": 0.03,
+    "YEAR_BUILT": 1973,
+    "DISPLAY_ADDRESS": true,
+    "DISPLAY_LISTING": true,
+    "STATUS": "Active",
+    "LISTDATE": "2022-08-04",
+    "ORIG_LISTPRICE": 1800000,
+    "CURR_LISTPRICE": 1685000,
+    "PHOTO_COUNT": 33,
+    "PHOTO_MODIF_DATE": 33,
+    "ELEM_SCHOOL": null,
+    "MIDL_SCHOOL": null,
+    "HIGH_SCHOOL": null
+}

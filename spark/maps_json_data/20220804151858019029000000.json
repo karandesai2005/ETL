@@ -1,0 +1,42 @@
+{
+    "PROPERTY": {
+        "ADDRESS": "38390 Hwy 6, 202, Avon, CO 81620",
+        "CITY": "Avon",
+        "STATE": "CO",
+        "ZIP": "81620",
+        "COUNTY": "Eagle",
+        "LOCATION": {
+            "latitude": 39.63035,
+            "longitude": -106.522249
+        }
+    },
+    "MEDIA": {
+        "LISTING_URL": null,
+        "VTOUR_URL": "https://my.matterport.com/show/?m=5bmNvvWxZ2J&mls=1",
+        "MODIF_TIMESTAMP": "2023-02-26T15:12:35Z"
+    },
+    "TERABITZ_ID": "1005947",
+    "ID": "1005947",
+    "DATASOURCE": "Vail Multi-List Service",
+    "UNIT_NUMBER": "202",
+    "TYPE": "Residential",
+    "SUBTYPE": "Condominium",
+    "TITLE": null,
+    "DESCRIPTION": "Located at the far west of the building and facing northwest, this spacious corner residence offers a private setting with creek views from every room. Luxury finishes include a gourmet kitchen with granite countertops and stainless steel appliances. The primary bedroom features an en-suite bath with glass shower and jetted tub. The secondary suite also includes an en-suite 5-piece bath. All bedrooms are generous in size with the 3rd bedroom offering space for a small desk/office area. The Ascent is an amenity rich property offering air-conditioning throughout the building, convenient building owned and operated skier shuttle to Beaver Creek and Vail, indoor pool, indoor and outdoor hot tubs, steam room, fitness area with state of the art equipment, assigned ski lockers with boot dryers, owner storage closet, underground heated parking for one vehicle, additional surface parking and on-site property managers. Enjoy multiple recreation rooms including game room, community BBQ, outdoor fireplace and a shared use bar with owner wine lockers. Residence 202 is in immaculate condition. Homeowners Association has strong reserves and consistently low homeowner's association dues. Should an owner choose to rent this property they can either self-rent, use an outside property management company or rent through East West Resorts (management company). Current owner rents through East West with a split of 63% (owner) and 37% (management company). Excellent opportunity for rental income.",
+    "PARCEL_NUMBER": "210512414011",
+    "BEDS": 3,
+    "HALFBATHS": 0,
+    "LOTSQFT": 0.05,
+    "YEAR_BUILT": 2006,
+    "DISPLAY_ADDRESS": true,
+    "DISPLAY_LISTING": true,
+    "STATUS": "Active",
+    "LISTDATE": "2022-08-04",
+    "ORIG_LISTPRICE": 1850000,
+    "CURR_LISTPRICE": 1625000,
+    "PHOTO_COUNT": 55,
+    "PHOTO_MODIF_DATE": 55,
+    "ELEM_SCHOOL": null,
+    "MIDL_SCHOOL": null,
+    "HIGH_SCHOOL": null
+}

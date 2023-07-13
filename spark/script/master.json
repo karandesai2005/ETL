@@ -1,0 +1,422 @@
+{
+    "20220729191102013665000000": {
+        "PROPERTY": {
+            "ADDRESS": "728 W Lionshead Circle, F-428, Vail, CO 81657",
+            "CITY": "Vail",
+            "STATE": "CO",
+            "ZIP": "81657",
+            "COUNTY": "Eagle",
+            "LOCATION": {
+                "latitude": 39.642349,
+                "longitude": -106.393121
+            }
+        },
+        "MEDIA": {
+            "LISTING_URL": null,
+            "VTOUR_URL": null,
+            "MODIF_TIMESTAMP": "2023-03-09T18:00:13Z"
+        },
+        "TERABITZ_ID": "1005910",
+        "ID": "1005910",
+        "DATASOURCE": "Vail Multi-List Service",
+        "UNIT_NUMBER": "F-428",
+        "TYPE": "Partial Ownership",
+        "SUBTYPE": "Condominium",
+        "TITLE": null,
+        "DESCRIPTION": "Owners of this three-bedroom has views to Vail Mountain and the Gore Range.  Located at The Ritz Carlton Club and Residences, Vail  ownersip offers 2 summer weeks and 1 float week.   A total of 3 weeks a year.  Owners enjoy all the properties  amenities including, spa, concierge, fitness center, outdoor pool/hot tub. and skier services.  Owners can buy additional nights, use other Ritz-Carlton Club locations, and enjoy exclusive Owner Only benefits at Ritz-Carlton Hotels worldwide.  Other trading options are available as well, letting you have a home in Vail and around the world.",
+        "PARCEL_NUMBER": "210107223092",
+        "BEDS": 3,
+        "HALFBATHS": 1,
+        "LOTSQFT": 0.02,
+        "YEAR_BUILT": 2010,
+        "DISPLAY_ADDRESS": true,
+        "DISPLAY_LISTING": true,
+        "STATUS": "Pending",
+        "LISTDATE": "2022-07-29",
+        "ORIG_LISTPRICE": 175000,
+        "CURR_LISTPRICE": 175000,
+        "PHOTO_COUNT": 31,
+        "PHOTO_MODIF_DATE": 31,
+        "ELEM_SCHOOL": null,
+        "MIDL_SCHOOL": null,
+        "HIGH_SCHOOL": null
+    },
+    "20220729194651836600000000": {
+        "PROPERTY": {
+            "ADDRESS": "307 Rockledge Road, Vail, CO 81657",
+            "CITY": "Vail",
+            "STATE": "CO",
+            "ZIP": "81657",
+            "COUNTY": "Eagle",
+            "LOCATION": {
+                "latitude": 39.640145,
+                "longitude": -106.383174
+            }
+        },
+        "MEDIA": {
+            "LISTING_URL": null,
+            "VTOUR_URL": "https://my.matterport.com/show/?m=rV6Q5niWyXS&mls=1",
+            "MODIF_TIMESTAMP": "2023-03-13T03:39:04Z"
+        },
+        "TERABITZ_ID": "1005924",
+        "ID": "1005924",
+        "DATASOURCE": "Vail Multi-List Service",
+        "UNIT_NUMBER": null,
+        "TYPE": "Residential",
+        "SUBTYPE": "Single Family Residence",
+        "TITLE": null,
+        "DESCRIPTION": "Exceptional newly constructed, single-family home in one of Vail's most desirable locations. Located on Rockledge Road, this home boasts expansive mountain views and offers the convenience of being steps to the ski slope and a short walk to Vail Village via landscaped path to Forest Road. \r\n\r\n307 Rockledge epitomizes mountain contemporary living, integrating stone, wood, and metal accents throughout, with high ceilings, custom lighting, luxury finishes, indoor and outdoor fireplaces, bespoke millwork, large windows and 14-foot sliding glass doors.\r\n\r\nThis mountain modern design emphasizes privacy coupled with ample space to entertain, with six bedrooms including guest owner suite, large family room, wine cellar, oversized two car garage, Wolf outdoor kitchen, custom pool, and over 2,000 square feet of heated outdoor living space to enjoy views of the Gore Range, Bald Mountain and Red and White Mountain.\r\n\r\nOne of the rarest single-family offerings in Vail's premier neighborhood.",
+        "PARCEL_NUMBER": "210107125001",
+        "BEDS": 6,
+        "HALFBATHS": 2,
+        "LOTSQFT": 0.33,
+        "YEAR_BUILT": 2020,
+        "DISPLAY_ADDRESS": true,
+        "DISPLAY_LISTING": true,
+        "STATUS": "Active",
+        "LISTDATE": "2022-08-01",
+        "ORIG_LISTPRICE": 27900000,
+        "CURR_LISTPRICE": 27900000,
+        "PHOTO_COUNT": 22,
+        "PHOTO_MODIF_DATE": 22,
+        "ELEM_SCHOOL": null,
+        "MIDL_SCHOOL": null,
+        "HIGH_SCHOOL": null
+    },
+    "20220729204937620123000000": {
+        "PROPERTY": {
+            "ADDRESS": "5786 E Wildridge Road, B, Avon, CO 81620",
+            "CITY": "Avon",
+            "STATE": "CO",
+            "ZIP": "81620",
+            "COUNTY": "Eagle",
+            "LOCATION": {
+                "latitude": 39.667831,
+                "longitude": -106.542523
+            }
+        },
+        "MEDIA": {
+            "LISTING_URL": null,
+            "VTOUR_URL": null,
+            "MODIF_TIMESTAMP": "2023-03-11T01:37:38Z"
+        },
+        "TERABITZ_ID": "1005926",
+        "ID": "1005926",
+        "DATASOURCE": "Vail Multi-List Service",
+        "UNIT_NUMBER": "B",
+        "TYPE": "Residential",
+        "SUBTYPE": "Duplex",
+        "TITLE": null,
+        "DESCRIPTION": "Step into this immaculate duplex home and let the expansive Beaver Creek views captivate you. A top local builder constructed the residence for his active family who presently live there as the original owners. They have poured their love into this home and it shows on every level with its ready to entertain floor plan, a beautiful open kitchen and easily accessed outdoor spaces. The 5 bedrooms and 4.5 baths offer abundant space for a large family or many visitors who can all enjoy being close to year-round hiking and biking trails, world class skiing, shopping, restaurants and more. Take advantage of the proximity to these amenities from the ''doorway to your mountain lifestyle,'' 5786 E. Wildridge Road #B, just waiting for you to discover.",
+        "PARCEL_NUMBER": "194335201013",
+        "BEDS": 5,
+        "HALFBATHS": 1,
+        "LOTSQFT": 1.09,
+        "YEAR_BUILT": 2006,
+        "DISPLAY_ADDRESS": true,
+        "DISPLAY_LISTING": true,
+        "STATUS": "Active",
+        "LISTDATE": "2022-08-01",
+        "ORIG_LISTPRICE": 2925000,
+        "CURR_LISTPRICE": 2795000,
+        "PHOTO_COUNT": 34,
+        "PHOTO_MODIF_DATE": 34,
+        "ELEM_SCHOOL": null,
+        "MIDL_SCHOOL": null,
+        "HIGH_SCHOOL": null
+    },
+    "20220801172331496991000000": {
+        "PROPERTY": {
+            "ADDRESS": "16 Vail Road, Club Unit 317, Vail, CO 81657",
+            "CITY": "Vail",
+            "STATE": "CO",
+            "ZIP": "81657",
+            "COUNTY": "Eagle",
+            "LOCATION": {
+                "latitude": 39.642654,
+                "longitude": -106.377495
+            }
+        },
+        "MEDIA": {
+            "LISTING_URL": null,
+            "VTOUR_URL": null,
+            "MODIF_TIMESTAMP": "2023-03-10T15:03:17Z"
+        },
+        "TERABITZ_ID": "1006112",
+        "ID": "1006112",
+        "DATASOURCE": "Vail Multi-List Service",
+        "UNIT_NUMBER": "Club Unit 317",
+        "TYPE": "Partial Ownership",
+        "SUBTYPE": "Condominium",
+        "TITLE": null,
+        "DESCRIPTION": "Buy now and enjoy spring skiing this April while staying at your 3-bedroom Sebastian Residence. No dues until 2024!\r\nEach year, you will enjoy a beautifully remodeled 2, 3, or 4 Bedroom condo within the club residence program. Annually, you have the opportunity to select 4 weeks: 2 Prime (Ski season and July 4th week) and 2 non-prime weeks are included in this fractional offering. Additional weeks are available on a space available basis for only the low cost of housekeeping ($325-$425/week). \r\nThis amenity rich property includes; valet parking, slopeside ski valet, owner storage, housekeeping, concierge, outdoor pool and 3 hot-tubs, fitness room, kids' activities, game room,  grocery service, spa, special access to the owners' lounge. Enjoy a cocktail at Frost Bar and an elegant dinner at Leonora.  An upgrade is available for purchase to the Timbers Resort Collection. Photos represent one of the 3-bedroom club units. The specific condo for each of your trips may vary. 2022/2023 Weeks are:  April 1st-8th, 2023, July 8th-15th and Sept. 2nd-9th, 2023. A potential 4th or even a 5th week could be added to the 2023 calendar year, once you choose your weeks for next ski season.\r\nPhotos provided courtesy of Sebastian Vail a Timbers Resort.",
+        "PARCEL_NUMBER": "210108285029",
+        "BEDS": 3,
+        "HALFBATHS": 0,
+        "LOTSQFT": 0.02,
+        "YEAR_BUILT": 2007,
+        "DISPLAY_ADDRESS": true,
+        "DISPLAY_LISTING": true,
+        "STATUS": "Active",
+        "LISTDATE": "2022-09-02",
+        "ORIG_LISTPRICE": 290000,
+        "CURR_LISTPRICE": 275000,
+        "PHOTO_COUNT": 16,
+        "PHOTO_MODIF_DATE": 16,
+        "ELEM_SCHOOL": null,
+        "MIDL_SCHOOL": null,
+        "HIGH_SCHOOL": null
+    },
+    "20220802051206895970000000": {
+        "PROPERTY": {
+            "ADDRESS": "81 Lariat Road, A, Edwards, CO 81632",
+            "CITY": "Edwards",
+            "STATE": "CO",
+            "ZIP": "81632",
+            "COUNTY": "Eagle",
+            "LOCATION": {
+                "latitude": 39.64416,
+                "longitude": -106.558476
+            }
+        },
+        "MEDIA": {
+            "LISTING_URL": null,
+            "VTOUR_URL": "https://my.matterport.com/show/?m=fgy9kudhnVC&mls=1",
+            "MODIF_TIMESTAMP": "2023-02-09T21:20:51Z"
+        },
+        "TERABITZ_ID": "1005936",
+        "ID": "1005936",
+        "DATASOURCE": "Vail Multi-List Service",
+        "UNIT_NUMBER": "A",
+        "TYPE": "Residential",
+        "SUBTYPE": "Duplex",
+        "TITLE": null,
+        "DESCRIPTION": "Welcome home to this beautiful, open-floorplan design, that is ideal for entertaining, with large, lofted ceilings throughout the living room flowing into the completely remodeled, elegant kitchen. Your family or guests will love the flow through the main level, while maintaining that privacy on the upper level 3 bedrooms. The 4th bedroom contains a murphy bed, which is ideal for a bonus room or home office, yet still converts into that guest room when needed. With beautiful views and a functional backyard, this home has a tremendous amount of privacy at the end of this cul de sac and also provides that extra space for storage with a large crawl space and 2 car, attached garage.",
+        "PARCEL_NUMBER": "210503404047",
+        "BEDS": 4,
+        "HALFBATHS": 0,
+        "LOTSQFT": 0.25,
+        "YEAR_BUILT": 1991,
+        "DISPLAY_ADDRESS": true,
+        "DISPLAY_LISTING": true,
+        "STATUS": "Closed",
+        "LISTDATE": "2022-08-03",
+        "ORIG_LISTPRICE": 1695000,
+        "CURR_LISTPRICE": 1395000,
+        "PHOTO_COUNT": 34,
+        "PHOTO_MODIF_DATE": 34,
+        "ELEM_SCHOOL": null,
+        "MIDL_SCHOOL": null,
+        "HIGH_SCHOOL": null
+    },
+    "20220802215730228380000000": {
+        "PROPERTY": {
+            "ADDRESS": "51 Chelsea Court, Eagle, CO 81631",
+            "CITY": "Eagle",
+            "STATE": "CO",
+            "ZIP": "81631",
+            "COUNTY": "Eagle",
+            "LOCATION": {
+                "latitude": 39.660366,
+                "longitude": -106.816912
+            }
+        },
+        "MEDIA": {
+            "LISTING_URL": null,
+            "VTOUR_URL": null,
+            "MODIF_TIMESTAMP": "2023-01-19T01:37:31Z"
+        },
+        "TERABITZ_ID": "1006459",
+        "ID": "1006459",
+        "DATASOURCE": "Vail Multi-List Service",
+        "UNIT_NUMBER": null,
+        "TYPE": "Residential",
+        "SUBTYPE": "Townhouse",
+        "TITLE": null,
+        "DESCRIPTION": "Fantastic opportunity to own a 3 bedroom / 3 bathroom townhouse backing up to the Eagle River!  Well maintained and recently updated the townhome features an extended redwood deck that adds to the living space, updated kitchen with Ceaserstone countertops and stainless appliances.  The lower level is self contained and can be used as an additional living space with its own private patio.  Enjoy the tranquil setting and views from this fabulous home within walking distance to downtown Eagle.",
+        "PARCEL_NUMBER": "193933318013",
+        "BEDS": 3,
+        "HALFBATHS": 0,
+        "LOTSQFT": 0.02,
+        "YEAR_BUILT": 1997,
+        "DISPLAY_ADDRESS": true,
+        "DISPLAY_LISTING": true,
+        "STATUS": "Closed",
+        "LISTDATE": "2022-11-12",
+        "ORIG_LISTPRICE": 595000,
+        "CURR_LISTPRICE": 595000,
+        "PHOTO_COUNT": 26,
+        "PHOTO_MODIF_DATE": 26,
+        "ELEM_SCHOOL": null,
+        "MIDL_SCHOOL": null,
+        "HIGH_SCHOOL": null
+    },
+    "20220803152151083686000000": {
+        "PROPERTY": {
+            "ADDRESS": "1400 Lions Ridge Loop, 2, Vail, CO 81657",
+            "CITY": "Vail",
+            "STATE": "CO",
+            "ZIP": "81657",
+            "COUNTY": "Eagle",
+            "LOCATION": {
+                "latitude": 39.637927,
+                "longitude": -106.408133
+            }
+        },
+        "MEDIA": {
+            "LISTING_URL": null,
+            "VTOUR_URL": null,
+            "MODIF_TIMESTAMP": "2023-02-20T14:28:22Z"
+        },
+        "TERABITZ_ID": "1005941",
+        "ID": "1005941",
+        "DATASOURCE": "Vail Multi-List Service",
+        "UNIT_NUMBER": "2",
+        "TYPE": "Residential",
+        "SUBTYPE": "Condominium",
+        "TITLE": null,
+        "DESCRIPTION": "Designed by the internationally renowned architect, the late Charles Allen Haertling.\r\n\r\nAn architectural wonderment and one of THE BEST VIEWS in the Vail Valley! A mesmerizing panoramic view over the Town of Vail with the iconic and perfectly framed ''Grand Traverse'' in the peaks of the Gore Range. Postcard sunrises and glorious sunsets, blizzards, lighting storms and rainbows, daily! Unit 2 is the ''Pick of the Litter'' and same owner occupied for 38 years.\r\n\r\nSituated in West Vail on the sunny side of the valley, 3 minutes from town and 2 minutes from the grocery stores. A popular street for a variety of exercises and easy access to several hiking trails. A TOV bus stops at the properties edge.\r\n\r\nAn eclectic mix of finishes and furnishings, highly functional, A + clean, and cozy beyond.\r\nThe common courtyard embellishes a world class garden for all day enjoyment.\r\nThe association's exterior is due for an upgrade, Early assessment estimates are roughly $40K + or \u00e2\u20ac\u201c in two to three years. The development process is in progress. There are 2 reserved parking and 3 guest spots. Long-term rentals only.\r\n\r\nOverall, the Architecture, Location, Situation, and Views, are something that ''Cannot be Duplicated'' in the Vail Valley. Designed by the internationally renowned architect, the late Charles Allen Haertling.\n\nAn architectural wonderment and one of THE BEST VIEWS in the Vail Valley! A mesmerizing panoramic view over the Town of Vail with the iconic and perfectly framed \"Grand Traverse\" in the peaks of the Gore Range. Postcard sunrises and glorious sunsets, blizzards, lighting storms and rainbows, daily! Unit 2 is the \"Pick of the Litter\" and same owner occupied for 38 years.\n\nSituated in West Vail on the sunny side of the valley, 3 minutes from town and 2 minutes from the grocery stores. A popular street for a variety of exercises and easy access to several hiking trails. A TOV bus stops at the properties edge.\n\nAn eclectic mix of finishes and furnishings, highly functional, A + clean, and cozy beyond.\nThe common courtyard embellishes a world class garden for all day enjoyment.\n\nOverall, the Architecture, Location, Situation, and Views, are something that \"Cannot be Duplicated\" in the Vail Valley.",
+        "PARCEL_NUMBER": "210312203002",
+        "BEDS": 4,
+        "HALFBATHS": 0,
+        "LOTSQFT": 0.03,
+        "YEAR_BUILT": 1973,
+        "DISPLAY_ADDRESS": true,
+        "DISPLAY_LISTING": true,
+        "STATUS": "Active",
+        "LISTDATE": "2022-08-04",
+        "ORIG_LISTPRICE": 1800000,
+        "CURR_LISTPRICE": 1685000,
+        "PHOTO_COUNT": 33,
+        "PHOTO_MODIF_DATE": 33,
+        "ELEM_SCHOOL": null,
+        "MIDL_SCHOOL": null,
+        "HIGH_SCHOOL": null
+    },
+    "20220804151858019029000000": {
+        "PROPERTY": {
+            "ADDRESS": "38390 Hwy 6, 202, Avon, CO 81620",
+            "CITY": "Avon",
+            "STATE": "CO",
+            "ZIP": "81620",
+            "COUNTY": "Eagle",
+            "LOCATION": {
+                "latitude": 39.63035,
+                "longitude": -106.522249
+            }
+        },
+        "MEDIA": {
+            "LISTING_URL": null,
+            "VTOUR_URL": "https://my.matterport.com/show/?m=5bmNvvWxZ2J&mls=1",
+            "MODIF_TIMESTAMP": "2023-02-26T15:12:35Z"
+        },
+        "TERABITZ_ID": "1005947",
+        "ID": "1005947",
+        "DATASOURCE": "Vail Multi-List Service",
+        "UNIT_NUMBER": "202",
+        "TYPE": "Residential",
+        "SUBTYPE": "Condominium",
+        "TITLE": null,
+        "DESCRIPTION": "Located at the far west of the building and facing northwest, this spacious corner residence offers a private setting with creek views from every room. Luxury finishes include a gourmet kitchen with granite countertops and stainless steel appliances. The primary bedroom features an en-suite bath with glass shower and jetted tub. The secondary suite also includes an en-suite 5-piece bath. All bedrooms are generous in size with the 3rd bedroom offering space for a small desk/office area. The Ascent is an amenity rich property offering air-conditioning throughout the building, convenient building owned and operated skier shuttle to Beaver Creek and Vail, indoor pool, indoor and outdoor hot tubs, steam room, fitness area with state of the art equipment, assigned ski lockers with boot dryers, owner storage closet, underground heated parking for one vehicle, additional surface parking and on-site property managers. Enjoy multiple recreation rooms including game room, community BBQ, outdoor fireplace and a shared use bar with owner wine lockers. Residence 202 is in immaculate condition. Homeowners Association has strong reserves and consistently low homeowner's association dues. Should an owner choose to rent this property they can either self-rent, use an outside property management company or rent through East West Resorts (management company). Current owner rents through East West with a split of 63% (owner) and 37% (management company). Excellent opportunity for rental income.",
+        "PARCEL_NUMBER": "210512414011",
+        "BEDS": 3,
+        "HALFBATHS": 0,
+        "LOTSQFT": 0.05,
+        "YEAR_BUILT": 2006,
+        "DISPLAY_ADDRESS": true,
+        "DISPLAY_LISTING": true,
+        "STATUS": "Active",
+        "LISTDATE": "2022-08-04",
+        "ORIG_LISTPRICE": 1850000,
+        "CURR_LISTPRICE": 1625000,
+        "PHOTO_COUNT": 55,
+        "PHOTO_MODIF_DATE": 55,
+        "ELEM_SCHOOL": null,
+        "MIDL_SCHOOL": null,
+        "HIGH_SCHOOL": null
+    },
+    "20220804174750256236000000": {
+        "PROPERTY": {
+            "ADDRESS": "1270 Westhaven Circle, Vail, CO 81657",
+            "CITY": "Vail",
+            "STATE": "CO",
+            "ZIP": "81657",
+            "COUNTY": "Eagle",
+            "LOCATION": {
+                "latitude": 39.634735,
+                "longitude": -106.401274
+            }
+        },
+        "MEDIA": {
+            "LISTING_URL": null,
+            "VTOUR_URL": null,
+            "MODIF_TIMESTAMP": "2023-02-22T16:58:04Z"
+        },
+        "TERABITZ_ID": "1006311",
+        "ID": "1006311",
+        "DATASOURCE": "Vail Multi-List Service",
+        "UNIT_NUMBER": null,
+        "TYPE": "Residential",
+        "SUBTYPE": "Duplex",
+        "TITLE": null,
+        "DESCRIPTION": "Rare opportunity to purchase high-end luxury new construction on a coveted lot in Glen Lyon, just a few parcels removed from the Cascade Chairlift on Vail Mountain. 1270 Westhaven Circle is a stunning property comprised of over 3,845 square feet and includes 4 bedrooms, 6 total bathrooms, built-in ski storage, a private primary bedroom suite with outdoor patio access, 5-piece primary bathroom, large format glass windows and vaulted ceilings for enjoying the mountain views in the great room, a 3-car garage with epoxy floors, family room separate from the great room, and beautiful outdoor living space complete with a built-in grill, fire pit, and sunken hot tub. All outdoor spaces, including the driveway, are heated, and a private elevator allows for easy access to all 3 levels. This ideal location boasts Town of Vail open space in the front and the back, and offers walking distance to the Cascade Village chairlift, shuttle service to Vail and Lionshead Villages, and the walking/biking path going both east and west. Homeowners here with a property management contract also enjoy access to Grand Hyatt Property Management Exclusive Amenities. Anticipated completion is spring of 2023. For more information, feel free to visit mls.WesthavenCircleLuxury.com.",
+        "PARCEL_NUMBER": "2103-124-03-003",
+        "BEDS": 4,
+        "HALFBATHS": 2,
+        "LOTSQFT": 0.3,
+        "YEAR_BUILT": 2022,
+        "DISPLAY_ADDRESS": true,
+        "DISPLAY_LISTING": true,
+        "STATUS": "Pending",
+        "LISTDATE": "2022-10-14",
+        "ORIG_LISTPRICE": 8750000,
+        "CURR_LISTPRICE": 8750000,
+        "PHOTO_COUNT": 15,
+        "PHOTO_MODIF_DATE": 15,
+        "ELEM_SCHOOL": null,
+        "MIDL_SCHOOL": null,
+        "HIGH_SCHOOL": null
+    },
+    "20220804190205177012000000": {
+        "PROPERTY": {
+            "ADDRESS": "1272 Westhaven Circle, Vail, CO 81657",
+            "CITY": "Vail",
+            "STATE": "CO",
+            "ZIP": "81657",
+            "COUNTY": "Eagle",
+            "LOCATION": {
+                "latitude": 39.634754,
+                "longitude": -106.40149
+            }
+        },
+        "MEDIA": {
+            "LISTING_URL": null,
+            "VTOUR_URL": null,
+            "MODIF_TIMESTAMP": "2023-03-11T20:51:55Z"
+        },
+        "TERABITZ_ID": "1006312",
+        "ID": "1006312",
+        "DATASOURCE": "Vail Multi-List Service",
+        "UNIT_NUMBER": null,
+        "TYPE": "Residential",
+        "SUBTYPE": "Duplex",
+        "TITLE": null,
+        "DESCRIPTION": "Rare opportunity to purchase high-end luxury new construction on a coveted lot in Glen Lyon, just a few parcels removed from the Cascade Chairlift on Vail Mountain. Thoughtfully designed with an open-concept floor plan and abundant windows to take advantage of the quaking aspen groves and big mountain views, this beautiful mountain property has been carefully crafted to appeal to today's luxury mountain buyer. The sleek mountain modern design features walnut cabinetry, white oak hardwood flooring, luxury porcelain tile selections, accent walls, decorative lighting, and stylish hardware selections, among many other appointments. 1272 Westhaven Circle, the primary side, is comprised of over 5,645 square feet and includes 5 bedrooms plus an office on the main floor that can also double as another sleeping space. The lower level features a ski room with built-in lockers, a large flex space for a home gym or extra storage, a powder room, and tandem 4-car garage. The floor plan further includes a family room separate from the great room and ideal for entertaining, a spacious bunk room, 7 total bathrooms, an elevator, and a large heated outdoor living space with a fire pit, built-in grill, and hot tub. Ideally situated adjacent to a heavily-treed vacant lot, with Town of Vail open space in the front and the back, this property is as private as can be, yet offers convenient access to all that Vail Mountain has to offer, including walking distance to the Cascade Village chairlift, shuttle service to Vail and Lionshead Villages, and the walking/biking path going both east and west. Homeowners here with a property management contract also enjoy access to Grand Hyatt Property Management Exclusive Amenities. Anticipated completion is spring of 2023. For more information, feel free to visit mls.WesthavenCircleLuxury.com.",
+        "PARCEL_NUMBER": "000000000000",
+        "BEDS": 5,
+        "HALFBATHS": 1,
+        "LOTSQFT": 0.36,
+        "YEAR_BUILT": 2022,
+        "DISPLAY_ADDRESS": true,
+        "DISPLAY_LISTING": true,
+        "STATUS": "Active",
+        "LISTDATE": "2022-10-14",
+        "ORIG_LISTPRICE": 12750000,
+        "CURR_LISTPRICE": 12750000,
+        "PHOTO_COUNT": 17,
+        "PHOTO_MODIF_DATE": 17,
+        "ELEM_SCHOOL": null,
+        "MIDL_SCHOOL": null,
+        "HIGH_SCHOOL": null
+    }
+}
