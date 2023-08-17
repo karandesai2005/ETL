@@ -18,3 +18,8 @@ Furthermore, my internship exposed me to the nuances of corporate culture, impar
 In the face of project demands, I sharpened my ability to thrive under deadlines, delivering results without compromising quality. This aptitude for timely execution further solidified my skill set, enhancing my effectiveness as a dynamic contributor to data-driven initiatives.
 
 In summary, my tenure at Brown Fox Consultants as an ETL Developer enabled me to cultivate proficiency in data extraction, transformation, and loading processes. My exposure to technologies like AWS, Power BI, Apache Solr, and Apache Airflow equipped me to excel in complex data ecosystems. Simultaneously, the practical application of knowledge, understanding of corporate dynamics, and deadline-oriented approach have collectively molded me into a well-rounded professional prepared to make meaningful contributions in the data realm.
+
+THIS IS SOME SNAPSHOTS FROM APACHE SUPERSET
+![image](https://github.com/karandesai2005/ETL/assets/89301880/16b57796-78de-4a60-a1c9-01e6f8a05b7d)
+![image](https://github.com/karandesai2005/ETL/assets/89301880/a073db38-eb2d-43e6-b7a3-fd1abb97a2a6)
+
